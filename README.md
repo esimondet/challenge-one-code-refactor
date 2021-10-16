@@ -22,7 +22,8 @@ In this project, actions were taken to meet accessibility standards, including:
 ## Website
 You can view the live deployment [HERE](https://esimondet.github.io/challenge-one-code-refactor/)
 
-![Full page screenshot of Horiseon](assets\images\full-page-screenshot.png)
+## Screenshot of landing page
+![Full page screenshot of Horiseon](assets/images/full-page-screenshot.png)
 
 ## Contribution
 Completed by Edison Simondet
