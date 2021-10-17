@@ -8,7 +8,7 @@
 </p>
 
 ## Description
-In this project, actions were taken to meet accessibility standards, including:
+In this project actions were taken to meet accessibility standards, including:
 * Restructured code to follow semantic elements
 * Reordered code to follow a logical structure
 * Added alt attributes to image elements
